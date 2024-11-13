@@ -1,3 +1,6 @@
+const music = {
+  leveleditor: initAudio(prefix + "audio/jap_leveleditor.mp3"),
+};
 const player = {
   currentSave: undefined,
   autoSave: true,
